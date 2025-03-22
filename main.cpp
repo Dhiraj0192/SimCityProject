@@ -1,4 +1,8 @@
 #include "simulation.h"
+#include "readConfiguration.h"
+#include "readRegionLayout.h"
+#include "outputRegionState.h"
+#include "simulateCityDevelopment.h"
 #include <iostream>
 #include <vector>
 
